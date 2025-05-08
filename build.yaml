@@ -21,3 +21,5 @@
 include:
   - board: nrfmicro_13
     shield: crbn
+  - board: nrfmicro_13
+    shield: rebound
